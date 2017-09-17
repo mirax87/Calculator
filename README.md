@@ -4,7 +4,7 @@ A basic command-line calculator to add, subtract, multiply and divided numbers.
 
 # Usage
 
-> python Calculator.py "<operations>"
+> python Calculator.py "\<operations\>"
 
 > python Calculator.py "5+3"
 8
